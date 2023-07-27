@@ -1,0 +1,26 @@
+// us.geojson
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            // Coordinates for the boundary of the United States (Example data)
+            [
+              [-125, 50],
+              [-125, 24],
+              [-67, 24],
+              [-67, 50],
+              [-125, 50]
+            ]
+          ]
+        },
+        "properties": {
+          "name": "United States"
+        }
+      }
+    ]
+  }
+  

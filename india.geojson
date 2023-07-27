@@ -1,0 +1,26 @@
+// india.geojson
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            // Coordinates for the boundary of India (Example data)
+            [
+              [68, 7],
+              [68, 37],
+              [97, 37],
+              [97, 7],
+              [68, 7]
+            ]
+          ]
+        },
+        "properties": {
+          "name": "India"
+        }
+      }
+    ]
+  }
+  
